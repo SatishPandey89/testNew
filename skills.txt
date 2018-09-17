@@ -1,0 +1,152 @@
+HTML --D    http://learn.shayhowe.com/
+HTML5  --D
+CSS   --D 
+CSS3  --D
+
+GIT - desktop - step by step
+VueJS 
+reactjs
+Web Accessibility
+JAVASCRIPT
+JQUERY
+AJAX
+JSON
+Accelerated Mobile Pages (AMP)
+polymer
+Research work on js cdn and libraries
+AngularJs
+ES6
+brackets
+Angular2
+TypeScript
+Babel
+Ionic Framework
+Kendo UI
+material design   --------D
+responsive design
+bower
+Lectora
+Articulate StoryLine
+debugging -
+developer tools 
+Network in developer tools --data response
+adobe - 
+https://helpx.adobe.com/creative-cloud/help/extract-for-brackets.html
+LESS
+Sass
+Scss
+bootstrap
+bootstrap 4
+foundation framework
+JQUERY MOBILE
+Jquery templating
+XHTML
+JSP
+CROSS-BROWSER
+promises
+grunt
+gulp
+React Native
+TypeScript
+Angular2
+ES6
+MJML - email format template
+==========================================================================================================
+/* Javascript starter kit for projects*/
+Git
+VSCode editor
+package manager(bower/npm)
+Node
+WebServer options(node-server/express/live-server/browsersync)
+Work sharing tools ( localtunnel/ngrok/now/surge)
+Automation (grunt/gulp/npm scripts)
+Transpilling (Babel/TypeScript/Elm) - js compiler
+Module (ES6-->Bundeler(browserify/webpack/rollup/jspm) / AMD--> Bundeler (require js etc) )
+Debugging minified code
+Linting (JSLint/JSHint/ESLint)
+Testing  --
+	framework - (Mocha/Jasmin/Tape/QUnit/AVA/Jest)-using mocha
+	Assertion library - (Should.js/chai)- using chai
+	Helper libraries - (JSDOM/Cheerio)
+continuous integration
+	CI server - (jenkins/Semaphore/Travis/Appveyor/snap/circleci)
+
+===============================================================================================================
+
+WEB DESIGN
+WEB DEVELOPMENT
+web services
+PHP 
+XML
+JOOMLA
+parallax --           http://www.wix.com/website-template/view/html/1732?originUrl=http%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fall%2F1&bookName=create-master-new&galleryDocIndex=0&category=all&metaSiteId=
+FRONT-END DEVELOPMENT
+INTERACTION DESIGN
+cordova
+mobile app --- hybrid
+mobile app -- adaptive
+BACKBONE.JS
+UI TESTING
+WORDPRESS
+Required JS
+knockout JS
+Node js
+YSLOW
+handle bar js
+Dust js
+Fire Eyes
+DRUPAL
+YUI
+moostache.js
+underscore.js
+Bit Bucket 
+JIRA
+DREAMWEAVER
+PHOTOSHOP
+GRAPHIC DESIGN
+d3.js
+stenlor.js
+ExtJS 
+magento 
+drupal
+processing.js
+date.js
+Compass
+User experience
+Ruby on Rails
+All browsers
+Prestashop
+sopify
+https://www.heroku.com/  --
+
+
+
+Fill Timesheet
+GQL -
+
+Polymer - 
+	collect intro and other details (put in PPT)
+	create simple page
+
+React
+     	Email course - by 30th 
+	videos + React.js Courses on Training Portal 
+
+
+IOT - 
+  	go through videos 
+	- Node server set up 
+
+Vue-
+   
+     Training by Ch
+     videos
+     Nuclear components
+
+
+
+ES6--
+   https://www.sitepoint.com/es6-number-methods/
+
+
+
